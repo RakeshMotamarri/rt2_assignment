@@ -1,7 +1,7 @@
 ## Assignment of the Research Track 2 course 
- Durga Varun Gangesetti (matricola 5058219)
+ Rakesh Motamarri (matricola 5058220)
 
-The nodes FSM and position server are written in ros2 , By using ros1_bridge they can be interfaces with the ros nodes and with the simulation in gazebo.
+Nodes FSM and position server are written in ros2 , By using ros1_bridge they can be interfaces with the ros nodes and with the simulation in gazebo.
 
 # Excuting the package(individual)
 
